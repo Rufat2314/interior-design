@@ -1,0 +1,392 @@
+/* margin top */
+.custom-mt {
+    margin-top: 80px;
+}
+
+/* margin top 2 */
+.custom-mt2 {
+    margin-top: 145px;
+}
+
+/* Sign up Button START*/
+.flower-button {
+    border-radius: 15px 0px 15px 0px;
+    height: 30px;
+    width: 93px;
+    margin: auto 0px;
+    background-color: #CAA891;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.flower-button:hover {
+    color: black;
+}
+
+/* Sign up Button END*/
+
+
+/* Green Contact button START*/
+.green-flower-button {
+    border-radius: 15px 0px 15px 0px;
+    height: 41px;
+    width: 137px;
+    background-color: #36806B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.green-flower-button:hover {
+    color: black;
+}
+
+/* Green Contact button END */
+
+
+/* Dot patterns START */
+.dot-pattern {
+    height: 150px;
+    width: 210px;
+    top: -65px;
+    background-image: url("img/dot.png");
+    background-repeat: round;
+}
+
+.dot-pattern-2-right-top {
+    top: 25px;
+}
+
+.dot-pattern-3-left-top {
+    top: 65px;
+}
+
+.dot-pattern-4-right-top {
+    top: 110px;
+}
+
+.dot-pattern-5-left-top {
+    top: -75px;
+}
+
+.dot-pattern-6-right-top {
+    top: -75px;
+}
+
+.dot-pattern-7-left-top {
+    top: 95px;
+}
+
+/* Dot patterns END */
+
+
+/* MODERN INTERIOR border and image properties START */
+.rounded-img-border {
+    position: absolute;
+    width: 106%;
+    height: 100%;
+    top: 35px;
+    left: 35px;
+    border: 2px solid #AF855B;
+    border-radius: 20% 0% 20% 0%;
+    z-index: -1;
+}
+
+.rounded-responsive-img {
+    width: 106%;
+    border-radius: 20% 0% 20% 0%;
+}
+
+/* MODERN INTERIOR border and image properties END*/
+
+/* What we do START 
+circled green left and right button START */
+.green-circled-buttons {
+    background-color: #36806B;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 4px 10px 3px #d8d6d6;
+}
+
+.green-circled-buttons:hover {
+    color: black;
+    background-color: aliceblue;
+}
+
+/* circled green left and right button END */
+
+
+/* Flower containers START */
+.flower-container {
+    width: 407px;
+    height: 185px;
+    border-radius: 60px 0px 60px 0px;
+    box-shadow: 2px 5px 15px 3px #d8d6d6;
+}
+
+.flower-container-brown {
+    width: 407px;
+    height: 185px;
+    background-color: #CAA891;
+    color: white;
+    border-radius: 60px 0px 60px 0px;
+    box-shadow: 2px 5px 15px 3px #d8d6d6;
+}
+
+/* Flower containers END */
+
+.custom-font-size {
+    font-size: 1.1rem;
+}
+
+/* What we do END */
+
+
+/* About us START  */
+.about-us-container-mt {
+    margin-top: 205px;
+}
+
+.about-us-img-border {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -35px;
+    left: -35px;
+    border: 2px solid #AF855B;
+    border-radius: 20% 0% 20% 0%;
+    z-index: -1;
+}
+
+.about-us-img {
+    width: 100%;
+    border-radius: 20% 0% 20% 0%;
+}
+
+/* About us END  */
+
+
+/* 20 Years START */
+.twenty-years-container-mt {
+    margin-top: 215px;
+}
+
+.twenty-fs {
+    font-size: 17.5rem;
+    line-height: 15.6rem;
+    background-position: 10px 39px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-image: url(img/bg_wood.png);
+    background-repeat: no-repeat;
+    -webkit-text-fill-color: transparent;
+}
+
+.twenty-years-img {
+    width: 100%;
+    border-radius: 20% 0% 20% 0%;
+}
+
+.twenty-years-img-border {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 35px;
+    left: 35px;
+    border: 2px solid #AF855B;
+    border-radius: 20% 0% 20% 0%;
+    z-index: -1;
+}
+
+/* 20 Years END */
+
+
+/* 3000+ Completed Work START */
+
+.completed-work-container-mt {
+    margin-top: 12.2rem;
+}
+
+.completed-work-row-mt {
+    margin-top: 10.5rem;
+}
+
+.border-color {
+    border-color: #E0E0E0;
+
+}
+
+.rect-leaf-mb {
+    margin-bottom: 100px;
+}
+
+.rect-leaf {
+    width: 180px;
+    height: 175px;
+    border-radius: 60px 0px 60px 0px;
+    box-shadow: 2px 5px 15px 3px #d8d6d6;
+}
+
+.rect-leaf p {
+    line-height: 28px;
+}
+
+.rect-leaf-top {
+    top: -89px;
+}
+
+.rect {
+    width: 85px;
+    height: 90px;
+
+}
+
+/* 3000+ Completed Work END */
+
+
+/* Client says about us START */
+.client-says-row-mt {
+    margin-top: 75px;
+}
+
+.leaf-container {
+    width: 550px;
+    height: 220px;
+    border-radius: 60px 0px 60px 0px;
+    box-shadow: 2px 5px 15px 3px #d8d6d6;
+}
+
+.leaf-container-img {
+    position: relative;
+    left: -62.5px;
+    width: 125px;
+    border-radius: 35px 0px 35px 0px;
+}
+
+.quotation-img {
+    top: -15px;
+    right: 30px;
+}
+
+/* Client says about us END */
+
+
+/* Latest news START */
+.latest-news-container-mt {
+    margin-top: 130px;
+}
+
+.latest-news-img {
+    width: 84%;
+    border-radius: 20% 0% 20% 0%;
+    z-index: 1;
+}
+
+.latest-news-img-border {
+    position: absolute;
+    top: 15px;
+    left: 67px;
+    width: 84%;
+    height: 100%;
+    border-radius: 20% 0% 20% 0%;
+    border: 2px solid #AF855B;
+}
+
+.green-leaf-button {
+    height: 50px;
+    width: 260px;
+    background-color: #36806B;
+    border-radius: 15px 0px 15px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.green-leaf-button:hover {
+    color: black;
+}
+
+/* Latest news END */
+
+/* Don’t forget to sign up START */
+.dont-forget-container-mt {
+    margin-top: 170px;
+}
+
+.dont-forget-hr {
+    width: 33.5%;
+    margin: 28px auto 38px auto;
+}
+
+.subscribe-button-div {
+    width: 57.2%;
+    min-width: 430px;
+    height: 50px;
+    margin: 0 auto 0 auto;
+}
+
+.subscribe-btn {
+    width: 170px;
+    background-color: #36806B;
+    color: white;
+    font-size: large;
+    font-weight: 500;
+    border-radius: 0 0 15px 0;
+}
+
+.leaf-formed-input {
+    border-radius: 15px 0 0 0;
+    background-color: #EEEEEE;
+}
+
+::-webkit-input-placeholder {
+    font-size: 1.2rem !important;
+    padding-left: 13px;
+}
+
+/* Don’t forget to sign up END */
+
+
+/* Footer START */
+.footer-links {
+    display: block;
+    text-decoration: none;
+}
+
+.fa {
+    width: 35px;
+    height: 35px;
+    font-size: 1.3rem!important;
+    text-align: center;
+    padding-top: 8px;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color: #D4D4D4;
+    color: white;
+}
+
+.fa:hover {
+    background-color: #36806B;
+    color: white;
+}
+
+/* Footer END */
+
+
